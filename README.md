@@ -1,5 +1,5 @@
 # Spotify
-# Gestor de Listas de Reproducción en Consola
+## Gestor de Listas de Reproducción en Consola
 
 Este proyecto es un simulador de un reproductor de música basado en consola, escrito en Java. Permite gestionar múltiples "bibliotecas" (listas de reproducción), y cada biblioteca gestiona su propia cola de canciones y un historial de reproducción.
 
